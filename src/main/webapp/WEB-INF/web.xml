@@ -34,6 +34,7 @@
         <session-timeout>10</session-timeout>
     </session-config>
 
+    <!-- see m2 s2 -->
     <resource-ref>
         <res-ref-name>jdbc/hron</res-ref-name>
         <res-type>javax.sql.DataSource</res-type>
